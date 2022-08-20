@@ -15,7 +15,7 @@ const Home = () => {
 			<div>
 				<Jumbotron />
 			</div>
-			<div className="multi-cards row mx-5 mb-5 justify-content-between">
+			<div className="multi-cards row mx-5 mb-5 justify-content-between flex-column flex-lg-row align-items-center">
 					<NewCard/>
 					<NewCard/>
 					<NewCard/>
